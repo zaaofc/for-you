@@ -53,7 +53,7 @@ document.querySelector('.slash').style.animation = 'side_dark 0.5s'
 function move(){
     if(page == '1'){
         document.getElementById('panda--image').src = 'cute-panda.gif'
-        document.getElementById('message').innerText = 'Hai Bila, Ada sesuatu nih buat kamu tapi maaf yaa kalo kurang bagus, Dan semoga kamu suka yaa, Selamat membaca...'
+        document.getElementById('message').innerText = 'Hai Giaa, Ada sesuatu nih buat kamu tapi maaf yaa kalo kurang bagus, Dan semoga kamu suka yaa, Selamat membaca...'
         document.getElementById('next_btn').style.display = 'none'
         document.getElementById('yes').style.display = 'block'
         document.getElementById('no').style.display = 'block'
